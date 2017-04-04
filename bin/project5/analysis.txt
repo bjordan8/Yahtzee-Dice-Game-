@@ -1,0 +1,21 @@
+Analysis
+
+1) How much time did you spend working on this project?
+	For this project I spent an estimate of 11 hours. I spent probably about 6
+	hours creating methods and testing. I believe most of those 6 hours was more 
+	testing then coding. The other five hours was creating the game and testing different
+	possible outcomes.
+	
+2) Who, if anyone, helped you with this project?
+	For this project I mostly used my notes and previous labs to help me code
+	the project. I had other people play the game to make sure it was sound 
+	and not confusing to someone else other than me.
+	
+3) What was the most difficult part of this project?
+	The most difficult part of this project for me was preventing someone from changing the score.
+	At first the user was not able to change their score unless there was a zero. I realized this was a flaw
+	and I adjusted to code to include a zero took time, as well as lots trial and error.
+	
+4) Describe how you convinced yourself that your program works.
+	I convinced myself that this program works by trying different inputs and seeing different outcomes. This caused me 
+	to continually test the program numerous times.
